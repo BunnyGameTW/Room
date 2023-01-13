@@ -1,11 +1,8 @@
 # Room
-Introduction: 
-1. obj file loader
-2. GUI
-3. ambient light
-4. main light
+👉Introduction👈  
+A room made with openGL, including object file loader, gui, ambient light, main light
 
-Made with: OpenGL  
-More: https://aekly268.github.io/OpenGLWorks/  
+✏️Dev log✏️  
+https://bunnygame.tw/opengl/
 
 [<img src="https://img.youtube.com/vi/eU8p02WpyNk/hqdefault.jpg">](https://youtu.be/eU8p02WpyNk)
